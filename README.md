@@ -87,4 +87,4 @@ MIT
 
 ---
 
-Built by [@meimakes](https://x.com/meimakes) · Available on [ClawHub](https://clawhub.com)
+Built by [@madebydia](https://x.com/madebydia) · Available on [ClawHub](https://clawhub.com)
