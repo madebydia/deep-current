@@ -49,10 +49,10 @@ Thread IDs are auto-generated slugs. Prefix matching works (`carn` matches `carn
 
 ### OpenClaw
 
-Install from [ClawHub](https://clawhub.com):
+Install from [ClawHub](https://clawhub.ai/madebydia/deep-current):
 
 ```bash
-clawhub install deep-current
+openclaw skills install deep-current
 ```
 
 Schedule a nightly cron job that tells your agent to pick threads, research them with `web_search`/`web_fetch`, and write findings to `deep-current-reports/YYYY-MM-DD.md`. See [SKILL.md](SKILL.md) for the full cron prompt template.
@@ -87,4 +87,4 @@ MIT
 
 ---
 
-Built by [@madebydia](https://x.com/madebydia) · Available on [ClawHub](https://clawhub.com)
+Built by [@madebydia](https://x.com/madebydia) · Available on [ClawHub](https://clawhub.ai/madebydia/deep-current)
